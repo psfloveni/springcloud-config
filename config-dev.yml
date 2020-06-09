@@ -1,4 +1,4 @@
 name : dev
-age : 12
+age : 10
 server:
-  port: 3006
+  port: 3005
